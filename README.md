@@ -1,4 +1,4 @@
-# Truck-24
+# Trucks-24
 
 ## There are two phases of our project:-
 - The first one includes automation
